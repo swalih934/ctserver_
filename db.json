@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "username": "1",
+      "email": "1",
+      "password": "1",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "username": "1",
+      "email": "2",
+      "password": "3",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "username": "3",
+      "email": "3",
+      "password": "3",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "username": "7",
+      "email": "7",
+      "password": "7",
+      "id": 7
+    },
+    {
+      "username": "22",
+      "email": "22",
+      "password": "22",
+      "id": 8
+    },
+    {
+      "username": "sali",
+      "email": "sali@gmail.com",
+      "password": "1234",
+      "id": 9
+    },
+    {
+      "username": "sali",
+      "email": "salii@gmail.com",
+      "password": "1234",
+      "id": 10
+    },
+    {
+      "username": "adu",
+      "email": "adu@gmail.com",
+      "password": "1234",
+      "id": 11
+    },
+    {
+      "username": "aduu",
+      "email": "aduu@gmail.com",
+      "password": "1234",
+      "id": 12
+    },
+    {
+      "username": "aadi",
+      "email": "aadii@gmail.com",
+      "password": "1234",
+      "id": 13
+    },
+    {
+      "username": "swalihkt",
+      "email": "swalihktt@gmail.com",
+      "password": "1234",
+      "id": 14
+    },
+    {
+      "username": "hubu",
+      "email": "hubu@gmail.com",
+      "password": "1234",
+      "id": 15
+    },
+    {
+      "username": "aanu",
+      "email": "aanu@gmail.com",
+      "password": "1234",
+      "id": 16
+    }
+  ],
+  "contacts": [],
+  "category": [
+    {
+      "categoryid": "2",
+      "title": "family",
+      "contacts": [],
+      "id": 2
+    }
+  ]
+}
